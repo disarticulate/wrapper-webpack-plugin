@@ -8,9 +8,7 @@
   "peerDependencies": {
     "webpack": ">=2"
   },
-  "dependencies": {
-    "webpack-sources": "^1.1.0"
-  },
+  "dependencies": {},
   "files": [
     "wrapper-webpack-plugin.js"
   ],
